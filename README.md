@@ -6,4 +6,4 @@ Firefox Add-on: https://addons.mozilla.org/en-US/firefox/addon/character-input/
 
 Chrome Extension: https://chrome.google.com/webstore/detail/character-input/palopabccigloiidhjpehnphbcblfhcn
 
-Version 3 of Unicode Input.
+Version 3 of [Unicode Input](https://github.com/Orangeaurochs/Unicode-Input-Browser-Extension).
